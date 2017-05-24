@@ -1,1 +1,3 @@
 # InterfaceAutomation
+基于python requests模块对接口进行调用
+用lxrd库管理测试用例，接口调用参数向excel表中读取，接口返回写入excel表中
